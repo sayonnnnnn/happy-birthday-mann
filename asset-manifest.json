@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/happy-birthday-mann/static/css/main.1acbc03f.chunk.css",
+    "main.js": "/happy-birthday-mann/static/js/main.42c9a9d3.chunk.js",
+    "main.js.map": "/happy-birthday-mann/static/js/main.42c9a9d3.chunk.js.map",
+    "runtime-main.js": "/happy-birthday-mann/static/js/runtime-main.edd714d1.js",
+    "runtime-main.js.map": "/happy-birthday-mann/static/js/runtime-main.edd714d1.js.map",
+    "static/js/2.78186614.chunk.js": "/happy-birthday-mann/static/js/2.78186614.chunk.js",
+    "static/js/2.78186614.chunk.js.map": "/happy-birthday-mann/static/js/2.78186614.chunk.js.map",
+    "index.html": "/happy-birthday-mann/index.html",
+    "precache-manifest.9056f9236635e322a4112fd698d28180.js": "/happy-birthday-mann/precache-manifest.9056f9236635e322a4112fd698d28180.js",
+    "service-worker.js": "/happy-birthday-mann/service-worker.js",
+    "static/css/main.1acbc03f.chunk.css.map": "/happy-birthday-mann/static/css/main.1acbc03f.chunk.css.map",
+    "static/js/2.78186614.chunk.js.LICENSE.txt": "/happy-birthday-mann/static/js/2.78186614.chunk.js.LICENSE.txt",
+    "static/media/AvenirNextLTPro-Demi.otf": "/happy-birthday-mann/static/media/AvenirNextLTPro-Demi.de28f71e.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edd714d1.js",
+    "static/js/2.78186614.chunk.js",
+    "static/css/main.1acbc03f.chunk.css",
+    "static/js/main.42c9a9d3.chunk.js"
+  ]
+}
